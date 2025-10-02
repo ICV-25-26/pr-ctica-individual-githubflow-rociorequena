@@ -1,1 +1,4 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/VIaZZ9IK)
+
+
+El readme es un archivo que documenta un proyecto de software, ubicado generalmente en la raíz del repositorio, escrito en formato Markdown para facilitar su lectura y estilización. Este archivo actúa como la carta de presentación de un proyecto, proporcionando una visión general de qué trata, cómo usarlo, instalarlo y contribuir a él, siendo la primera referencia para nuevos desarrolladores o colaboradores. 
